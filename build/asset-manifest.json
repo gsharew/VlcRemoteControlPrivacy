@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.ca06e8f3.css",
-    "main.js": "/static/js/main.de56102b.js",
-    "static/js/787.2ef7af62.chunk.js": "/static/js/787.2ef7af62.chunk.js",
-    "index.html": "/index.html",
-    "main.ca06e8f3.css.map": "/static/css/main.ca06e8f3.css.map",
-    "main.de56102b.js.map": "/static/js/main.de56102b.js.map",
-    "787.2ef7af62.chunk.js.map": "/static/js/787.2ef7af62.chunk.js.map"
+    "main.css": "/VlcRemoteControlPrivacy/static/css/main.ca06e8f3.css",
+    "main.js": "/VlcRemoteControlPrivacy/static/js/main.f285a0af.js",
+    "static/js/787.2ef7af62.chunk.js": "/VlcRemoteControlPrivacy/static/js/787.2ef7af62.chunk.js",
+    "index.html": "/VlcRemoteControlPrivacy/index.html",
+    "main.ca06e8f3.css.map": "/VlcRemoteControlPrivacy/static/css/main.ca06e8f3.css.map",
+    "main.f285a0af.js.map": "/VlcRemoteControlPrivacy/static/js/main.f285a0af.js.map",
+    "787.2ef7af62.chunk.js.map": "/VlcRemoteControlPrivacy/static/js/787.2ef7af62.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ca06e8f3.css",
-    "static/js/main.de56102b.js"
+    "static/js/main.f285a0af.js"
   ]
 }
