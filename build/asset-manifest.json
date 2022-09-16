@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/VlcRemoteControlPrivacy/static/css/main.ca06e8f3.css",
-    "main.js": "/VlcRemoteControlPrivacy/static/js/main.f285a0af.js",
+    "main.js": "/VlcRemoteControlPrivacy/static/js/main.7020f361.js",
     "static/js/787.2ef7af62.chunk.js": "/VlcRemoteControlPrivacy/static/js/787.2ef7af62.chunk.js",
     "index.html": "/VlcRemoteControlPrivacy/index.html",
     "main.ca06e8f3.css.map": "/VlcRemoteControlPrivacy/static/css/main.ca06e8f3.css.map",
-    "main.f285a0af.js.map": "/VlcRemoteControlPrivacy/static/js/main.f285a0af.js.map",
+    "main.7020f361.js.map": "/VlcRemoteControlPrivacy/static/js/main.7020f361.js.map",
     "787.2ef7af62.chunk.js.map": "/VlcRemoteControlPrivacy/static/js/787.2ef7af62.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ca06e8f3.css",
-    "static/js/main.f285a0af.js"
+    "static/js/main.7020f361.js"
   ]
 }
